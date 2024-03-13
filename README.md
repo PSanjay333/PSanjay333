@@ -14,8 +14,9 @@
 </p>
 
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" 
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -72,8 +73,9 @@
 
 
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psanjay333&show_icons=true&locale=en&layout=compact" alt="psanjay333" /></p>
 
@@ -82,8 +84,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psanjay333&" alt="psanjay333" /></p>
 
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" 
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psanjay333&label=Profile%20views&color=0e75b6&style=flat" alt="psanjay333" /> </p>
