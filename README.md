@@ -41,9 +41,9 @@
   <a href="https://jwt.io" target="_blank">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt" width="60" height="30"/>
   </a>
-  <a href="https://www.djangoproject.com" target="_blank">
+<!--   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" width="70" height="30"/>
-  </a>
+  </a> -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" width="70" height="30"/>
   </a>
