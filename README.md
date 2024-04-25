@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Pothuraju</h1>
-<h3 align="center">👋 IT enthusiast at CBIT, immersed in DSA, skilled in Java, Python, ML, MERN Stack, OS, DBMS, and CN. Passionate about innovation and problem-solving. Eager to push boundaries and make a mark in the ever-evolving tech landscape. Let's embark on this journey of discovery together! 🚀</h3>
+<h3 align="center">👋 IT enthusiast at CBIT skilled in Java, ML, MERN Stack. Passionate about innovation and problem-solving. Eager to push boundaries and make a mark in the ever-evolving tech landscape. Let's embark on this journey of discovery together! 🚀</h3>
 
 - 📫 How to reach me **sanjay.pothuraju11@gmail.com**
 
