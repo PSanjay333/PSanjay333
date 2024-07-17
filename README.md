@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Pothuraju</h1>
 <h3 align="center">👋 IT enthusiast at CBIT skilled in Java, ML, MERN Stack. Passionate about innovation and problem-solving. Eager to push boundaries and make a mark in the ever-evolving tech landscape. Let's embark on this journey of discovery together! 🚀</h3>
 
-- 📫 How to reach me **sanjay.pothuraju11@gmail.com**
+- 📫 How to reach me **sanjay.pothuraju.work@gmail.com**
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" 
